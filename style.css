@@ -198,7 +198,8 @@ button:hover{
     text-align: center;
     text-align: center;
     background-color: rgb(20, 10, 45);
-    position: relative;
+    position: absolute;
+    top: 470px;
     color:aliceblue;
     border-radius: 5px;
 }
