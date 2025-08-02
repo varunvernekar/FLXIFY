@@ -1,5 +1,7 @@
 A visually engaging and responsive landing page designed using modern HTML5 and CSS3, featuring animated elements and a clean, user-centric layout.
 
+CLICK HERE FOR LIVE DEMO : https://varunvernekar.github.io/FLXIFY/
+
 💡 Features
 ✨ Smooth animated buttons and hover effects
 
